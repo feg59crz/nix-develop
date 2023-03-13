@@ -11,5 +11,5 @@ Repo: https://github.com/feg59crz/rust-nix-develop
 `nix develop` flake.
 Repo: https://github.com/feg59crz/python-nix-develop
 
-`nix-shell` for spyder
+`nix-shell` for spyder.
 Repo: https://github.com/feg59crz/nix-shell-spyder 
